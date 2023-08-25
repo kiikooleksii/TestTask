@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NortalTestTask</string>
+    <string name="loading_movies_failed">Loading movies failed, error: %1s</string>
+    <string name="released_on">Released on: %1s</string>
+    <string name="language">Language: %1s</string>
+    <string name="search">Search</string>
 </resources>
